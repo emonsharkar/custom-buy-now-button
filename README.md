@@ -1,34 +1,4 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <title>Custom Buy Now Button – README</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <style>
-    :root { --ink:#111; --ink-2:#333; --muted:#666; --accent:#96588a; --bg:#fff; }
-    body{font:16px/1.6 system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Helvetica,Arial,sans-serif;color:var(--ink);background:#fafafa;margin:0;padding:32px}
-    h1,h2,h3{line-height:1.2}
-    h1{font-size:2rem;margin:.2rem 0 1rem}
-    h2{font-size:1.4rem;margin:1.6rem 0 .6rem}
-    h3{font-size:1.1rem;margin:1.2rem 0 .4rem}
-    p{margin:.6rem 0}
-    code,kbd,pre{font-family:ui-monospace,SFMono-Regular,Consolas,Menlo,monospace}
-    pre{background:#121212; color:#eaeaea; padding:16px; border-radius:8px; overflow:auto}
-    .small{color:var(--muted); font-size:.92rem}
-    .badge{display:inline-block;padding:.15rem .5rem;border-radius:.5rem;background:#eee;color:#222;font-weight:600;margin-right:.35rem}
-    .grid{display:grid; gap:10px}
-    .two{grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
-    ul{margin:.4rem 0 .8rem}
-    li{margin:.25rem 0}
-    table{border-collapse:collapse;width:100%;background:#fff}
-    th,td{border:1px solid #e6e6e6;padding:8px 10px;text-align:left;vertical-align:top}
-    th{background:#f6f6f6}
-    .muted{color:#777}
-    a{color:var(--accent);text-decoration:none}
-    a:hover{text-decoration:underline}
-    .callout{border-left:4px solid var(--accent); background:#fff; padding:12px 14px; border-radius:6px}
-  </style>
-</head>
+
 <body>
 
   <h1>Custom Buy Now Button</h1>
